@@ -9,6 +9,10 @@
     flex-wrap: wrap;
 }
 
+.black {
+    background-color: black;
+}
+
 #clear, #rainbow {
     background-color: rgb(46, 46, 151);
     color: white;
